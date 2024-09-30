@@ -70,7 +70,7 @@ Package | Usage
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/ivansaul/flutter_cinemapedia_app.git
+git clone https://github.com/CreativeDev0508/flutter-cinema-app.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
