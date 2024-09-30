@@ -11,8 +11,8 @@ A simple project using The Movie DB based on Flutter, Clean architecture and mat
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Don't forget to ⭐ the repo
-![GitHub stars](https://img.shields.io/github/stars/ivansaul/flutter_cinemapedia_app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ivansaul/flutter_cinemapedia_app?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/CreativeDev0508/flutter-cinema-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/CreativeDev0508/flutter-cinema-app?style=social) 
 
 ## Features
 
@@ -45,7 +45,7 @@ Check it yourself :)
 
 ## Demo
 
-https://github.com/ivansaul/flutter_cinemapedia_app/assets/15005581/03f4bdd4-905e-4be7-baac-bcfc41c04719
+https://github.com/CreativeDev0508/flutter-cinema-app/assets/15005581/03f4bdd4-905e-4be7-baac-bcfc41c04719
 
 ## Packages we are using:
 
